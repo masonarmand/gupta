@@ -1,3 +1,5 @@
+<img src='https://raw.githubusercontent.com/Scarbyte/gupta/main/screenshot.png' width=600>
+
 # gupta
 Roguelike game with chess-based movement. Programmed in C using Raylib.
 This game was created in 2 weeks for <a href='https://experimentaljams.com'>Experimental Game Jams</a>. The theme was grid.
